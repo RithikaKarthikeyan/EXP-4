@@ -49,5 +49,9 @@ WAVEFORM:
 
 
 RESULT:
+<img width="918" height="624" alt="image" src="https://github.com/user-attachments/assets/2ff38150-cf21-4243-8188-d91dec9983aa" />
+<img width="954" height="649" alt="image" src="https://github.com/user-attachments/assets/7cc65897-c437-4f0e-bb81-1336d625f0a1" />
+<img width="929" height="655" alt="image" src="https://github.com/user-attachments/assets/69ba5251-076e-4730-b13c-287034b56b22" />
+<img width="892" height="607" alt="image" src="https://github.com/user-attachments/assets/b54a5dbe-2e0e-4bc4-b1cd-070c2775f4d6" />
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
